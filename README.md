@@ -34,3 +34,4 @@ I am a Front-End Developer passionate about creating modern, user-friendly web e
 
 ![Jef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeferson004&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson004&layout=compact&theme=radical)
+
