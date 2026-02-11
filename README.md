@@ -8,7 +8,8 @@ I am a Front-End Developer passionate about creating modern, user-friendly, and 
 
 ## Contact
 
-+63 09919926620 | jeffmuring12@gmail.com | [GitHub](https://github.com/Jeferson004) | [LinkedIn](http://www.linkedin.com/in/jeferson-ismael-muring-311b3b2b1)
++63 09919926620 | jeffmuring12@gmail.com | [GitHub 1](https://github.com/Jeferson004) | [GitHub 2](https://github.com/Jep0307) | [LinkedIn](http://www.linkedin.com/in/jeferson-ismael-muring-311b3b2b1)
+
 
 ## Technologies & Tools
 
