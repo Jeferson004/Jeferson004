@@ -19,7 +19,6 @@ I am a Front-End Developer passionate about creating modern, user-friendly, and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/greensock/GSAP/master/logo/GSAP_Logo_Gradient.svg" alt="GSAP" width="40"/>
 
 **Backend & Deployment:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> 
