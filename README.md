@@ -2,9 +2,9 @@
 
 I am a Front-End Developer passionate about creating modern, user-friendly web experiences. I enjoy blending classic techniques with innovative approaches to deliver clean and functional interfaces. When not coding, I spend time gaming, reading, or enjoying a good cup of coffee.
 
-- Interested in modern Web Development
-- Currently learning and experimenting with innovative technologies
-- Open to collaboration on exciting projects
+- Focused on modern Web Development
+- Continuously learning and experimenting with new technologies
+- Open to collaboration on projects that solve real problems
 - Pronouns: He/Him
 
 ## Technologies & Tools
@@ -21,3 +21,16 @@ I am a Front-End Developer passionate about creating modern, user-friendly web e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
 </p>
+
+## Top Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| Portfolio Website | My personal portfolio showcasing projects | HTML, CSS, React, Tailwind |
+| Todo App | Task management web application | React, Node.js, CSS |
+| Blog Platform | Full-stack blog with user authentication | React, Node.js, MongoDB |
+
+## GitHub Stats
+
+![Jef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeferson004&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson004&layout=compact&theme=radical)
