@@ -8,7 +8,6 @@ Front-End Developer focused on building modern, responsive, and user-centered we
 - 📱 **Phone:** +63 991 992 6620
 - 💼 **LinkedIn:** https://www.linkedin.com/in/jeferson-ismael-muring-311b3b2b1
 - 🐙 **GitHub:** https://github.com/Jeferson004
-- 🐙 **GitHub (Secondary):** https://github.com/Jep0307
 
 ---
 
