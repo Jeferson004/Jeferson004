@@ -1,13 +1,13 @@
-# Hi, I'm Jef 👋
+# Hi, I'm Jef
 
 Front-End Developer focused on building modern, responsive, and user-centered web applications. I enjoy transforming ideas into clean, accessible, and high-performance interfaces while continuously improving my skills and exploring new technologies.
 
 ## Contact
 
-- 📧 **Email:** jeffmuring12@gmail.com
-- 📱 **Phone:** +63 991 992 6620
-- 💼 **LinkedIn:** https://www.linkedin.com/in/jeferson-ismael-muring-311b3b2b1
-- 🐙 **GitHub:** https://github.com/Jeferson004
+- **Email:** jeffmuring12@gmail.com
+- **Phone:** +63 991 992 6620
+- **LinkedIn:** https://www.linkedin.com/in/jeferson-ismael-muring-311b3b2b1
+- **GitHub:** https://github.com/Jeferson004
 
 ---
 
