@@ -17,6 +17,7 @@ I care about the details users notice (smooth interactions, responsive layouts, 
 ## What I Do
 
 - **Build interfaces:** responsive, user-centered web apps
+- **Integrate APIs:** connect front-end apps to REST APIs and third-party services
 - **Add motion:** purposeful animation with GSAP and Framer Motion, plus other tools when needed
 - **Work full-stack when needed:** adapting to what the team requires
 - **Ship it:** deploy and maintain projects on modern hosting platforms
