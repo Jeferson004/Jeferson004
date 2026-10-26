@@ -1,4 +1,4 @@
-# Hi, I'm Jef -_*
+# Hi, I'm Jeferson (Jef) -_*
 
 **Front-End Developer** who turns ideas into fast, accessible, and polished web interfaces.
 
