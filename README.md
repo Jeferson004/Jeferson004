@@ -4,6 +4,8 @@
 
 I care about the details users notice (smooth interactions, responsive layouts, clear structure) and the ones they don't (clean code, performance, accessibility). Add a good cup of coffee, and the creativity follows ^-^
 
+Note: Some of my repositories are private.
+
 <p>
   <img src="https://img.shields.io/badge/Role-Front--End_Developer-2563eb?style=flat" />
   <img src="https://img.shields.io/badge/Focus-Responsive_Design-16a34a?style=flat" />
